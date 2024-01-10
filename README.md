@@ -1,7 +1,7 @@
 <h1 align="center">Hello Users of the Internet 👋 </h1>
 <img align="left" alt="coding" width="750" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif">
 
-<h2 align="center">I'm Evan Cooper</h2>
+<h2 align="center">⚡️ I'm Evan Cooper ⚡️</h2>
 <h3 align="center">A Dedicated Data Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
