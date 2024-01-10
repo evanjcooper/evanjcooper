@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="400" src="https://dribbble.com/shots/5487982-Developers-Gif">
+<img align="center" alt="coding" width="400" src="https://www.dribbble.com/shots/5487982-Developers-Gif">
 <h1 align="center">Hi 👋, I'm Evan Cooper</h1>
 <h3 align="center">A Dedicated Data Analyst</h3>
 
