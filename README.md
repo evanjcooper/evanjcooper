@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coopheis&label=Profile%20views&color=0e75b6&style=flat" alt="coopheis" /> </p>
 
-logo=twitter&style=for-the-badge" alt="coopacook" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/coopacook" target="blank"><img src="https://img.shields.io/twitter/follow/coopacook?logo=twitter&style=for-the-badge" alt="coopacook" /></a> </p>
 
 - 🔭 I’m currently working on **Furthering my Analytics Career**
 
