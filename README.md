@@ -1,5 +1,5 @@
-<img align="left" alt="coding" width="750" src="https://media.istockphoto.com/id/1136639498/vector/automated-data-analysis-isometric-3d-banner-header.jpg?s=170667a&w=0&k=20&c=abYb8Xib0djBp-v240Bqf-PtntT2Cgv7AZvXOlmA-GA=">
------------------------------------------------------------------------------------------------------------------
+<img align="left" alt="coding" width="750" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif">
+
 <h1 align="center">Hi 👋, I'm Evan Cooper</h1>
 <h3 align="center">A Dedicated Data Analyst</h3>
 
