@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [coopheis/coopheis](github.com/coopheis/coopheis)
+- 👨‍💻 All of my projects are available at [github.com/coopheis/coopheis](github.com/coopheis/coopheis)
 
 - 📫 How to reach me **evan.cooper120@gmail.com**
 
