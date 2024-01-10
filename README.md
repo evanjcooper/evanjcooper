@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Evan Cooper</h1>
 <h3 align="center">A Dedicated Data Analyst</h3>
 
-<img align="left" alt="coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coopheis&label=Profile%20views&color=0e75b6&style=flat" alt="coopheis" /> </p>
 
