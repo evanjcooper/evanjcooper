@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<img align="left" alt="coding" width="600" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <h1 align="center">Hi 👋, I'm Evan Cooper</h1>
 <h3 align="center">A Dedicated Data Analyst</h3>
