@@ -1,5 +1,5 @@
 <h1 align="center">Hello Users of the Internet 👋 </h1>
-<img align="left" alt="coding" width="800" ![Evan Cooper (1)](https://github.com/evanjcooper/evanjcooper/assets/149256581/a3ff8bf7-d493-467d-b4b5-19dafb04da6c)
+<img align="left" alt="coding" width="800" src="file:///Users/evancooper/Desktop/Evan%20Cooper%20(1).png"
 >
 
 <h2 align="center">⚡️ I'm Evan Cooper ⚡️</h2>
