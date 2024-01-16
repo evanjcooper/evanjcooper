@@ -6,8 +6,10 @@
 <h2 align="left"> </h2>
 
 **Languages:** SQL, Python
+
 **Database:** PostgreSQL, MySQL, Oracle
 **Visualization:** Tableau
+
 
 -  I’m currently working on **Furthering my Analytics Career**
 
