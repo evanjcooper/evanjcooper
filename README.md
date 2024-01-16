@@ -18,9 +18,9 @@
 
 - I’m currently learning **Python** 
 
-### Contact me @ 
-[Email] (evan.cooper120@gmail.com)
-[LinkedIn] (https://www.linkedin.com/in/evanjcooper/)
+#### Contact me @ 
+* [Email] (evan.cooper120@gmail.com)
+* [LinkedIn] (https://www.linkedin.com/in/evanjcooper/)
 
 
 
