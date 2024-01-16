@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **evan.cooper120@gmail.com**
+- 📫 Contact me! **evan.cooper120@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
