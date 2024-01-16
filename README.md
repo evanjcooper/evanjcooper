@@ -8,6 +8,7 @@
 **Languages:** SQL, Python
 
 **Database:** PostgreSQL, MySQL, Oracle
+
 **Visualization:** Tableau
 
 
