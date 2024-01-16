@@ -1,5 +1,5 @@
 <h1 align="center">Hello Users of the Internet 👋 </h1>
-<img align="left" alt="coding" width="800" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="left" alt="coding" width="800" src="https://www.canva.com/design/DAF6FSV7HjQ/8E6rBOethD3cDBavm7L4Nw/edit?referrer=banners-landing-page">
 
 <h2 align="center">⚡️ I'm Evan Cooper ⚡️</h2>
 <h3 align="center">A Dedicated Data Analyst</h3>
