@@ -1,6 +1,5 @@
 <h1 align="center">Hello Users of the Internet 👋 </h1>
-<img align="left" alt="coding" width="800" src="file:///Users/evancooper/Desktop/Evan%20Cooper%20(1).png"
->
+<img align="left" alt="coding" width="800" src="file:///Users/evancooper/Desktop/Evan%20Cooper%20(1).png">
 
 <h2 align="center">⚡️ I'm Evan Cooper ⚡️</h2>
 <h3 align="center">A Dedicated Data Analyst</h3>
