@@ -3,8 +3,8 @@
 
 
 
+<h1 align="left">**Languages :** SQL, Python</h1>
 
-**Languages :** SQL, Python
 
 **Database :** PostgreSQL, MySQL, Oracle
 
