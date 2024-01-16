@@ -14,13 +14,11 @@
 
 
 
-<li>
-  
-I’m currently working on **Furthering my Analytics Career**
+<li> I’m currently working on **Furthering my Analytics Career** </li> 
 
- I’m currently learning **Python**
+<li>  I’m currently learning **Python** </li> 
 
- Contact me @ **evan.cooper120@gmail.com** </li> 
+<li>  Contact me @ **evan.cooper120@gmail.com** </li> 
 
 
 
