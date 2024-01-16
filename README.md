@@ -4,7 +4,6 @@
 
 
 <p style="font-family: arial>
-
   
 **Languages:** SQL, Python
 
