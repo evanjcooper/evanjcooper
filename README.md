@@ -3,13 +3,15 @@
 
 
 
-<h2 align="left"> </h2>
-
+<p>
+  
 **Languages:** SQL, Python
 
 **Database:** PostgreSQL, MySQL, Oracle
 
-**Visualization:** Tableau
+**Visualization:** Tableau </p>
+
+
 
 
 -  I’m currently working on **Furthering my Analytics Career**
