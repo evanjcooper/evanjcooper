@@ -3,7 +3,7 @@
 
 
 
-<p style="font-family: arial>
+<p>
   
 **Languages:** SQL, Python
 
