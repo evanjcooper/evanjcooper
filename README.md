@@ -2,14 +2,13 @@
 <img align="left" alt="coding" width="800" src="https://github.com/evanjcooper/evanjcooper/assets/149256581/324b17ae-5dbb-4fd7-9557-6ca7f874d4b4">
 
 
+<h2 align="left"></h2>
 
-<h1 align="left"></h1>
+**Languages:** SQL, Python
 
-**Languages :** SQL, Python
+**Database:** PostgreSQL, MySQL, Oracle
 
-**Database :** PostgreSQL, MySQL, Oracle
-
-**Visualization :** Tableau
+**Visualization:** Tableau
 
 -  I’m currently working on **Furthering my Analytics Career**
 
