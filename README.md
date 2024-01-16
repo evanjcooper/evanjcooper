@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coopheis&label=Profile%20views&color=0e75b6&style=flat" alt="coopheis" /> </p>
 
-Languages : SQL, Python
+**Languages :** SQL, Python
 
-Database : PostgreSQL, MySQL, Oracle
+**Database :** PostgreSQL, MySQL, Oracle
 
-Visualization: Tableau
+**Visualization :** Tableau
 
 -  I’m currently working on **Furthering my Analytics Career**
 
