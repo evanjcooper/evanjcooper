@@ -19,6 +19,7 @@ Visualization: Tableau
 
 #### 📫 Contact me @ 
 evan.cooper120@gmail.com
+
 https://www.linkedin.com/in/evanjcooper
 
 
